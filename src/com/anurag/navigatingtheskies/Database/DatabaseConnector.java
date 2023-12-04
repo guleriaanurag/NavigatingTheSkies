@@ -13,9 +13,9 @@ import java.sql.*;
 public class DatabaseConnector {
     
     private static final String driverClassName = "com.mysql.cj.jdbc.Driver";
-    private static final String url = "jdbc:mysql://localhost:3306/navigatingtheskies";
-    private static final String user = "root";
-    private static final String pass = "anurag19050269";
+    private static final String url = "Add your connection url";
+    private static final String user = "Add your username";
+    private static final String pass = "Add your password";
     private Connection connection;
     
     public DatabaseConnector(){
