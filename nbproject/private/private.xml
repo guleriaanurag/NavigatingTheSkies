@@ -4,12 +4,15 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/project/NavigatingTheSkies/src/com/anurag/navigatingtheskies/gui/AddFlights.java</file>
+            <file>file:/C:/project/NavigatingTheSkies/src/com/anurag/navigatingtheskies/gui/FlightsPage.java</file>
             <file>file:/C:/project/NavigatingTheSkies/src/com/anurag/navigatingtheskies/gui/AdminPanel.java</file>
-            <file>file:/C:/project/NavigatingTheSkies/src/com/anurag/navigatingtheskies/gui/UpdateFlightForm.java</file>
             <file>file:/C:/project/NavigatingTheSkies/src/com/anurag/navigatingtheskies/Database/TicketDAO.java</file>
-            <file>file:/C:/project/NavigatingTheSkies/src/com/anurag/navigatingtheskies/gui/LoginPage.java</file>
+            <file>file:/C:/project/NavigatingTheSkies/src/com/anurag/navigatingtheskies/Database/PassengerDAO.java</file>
+            <file>file:/C:/project/NavigatingTheSkies/src/com/anurag/navigatingtheskies/gui/HomePage.java</file>
             <file>file:/C:/project/NavigatingTheSkies/src/com/anurag/navigatingtheskies/Database/FlightDAO.java</file>
-            <file>file:/C:/project/NavigatingTheSkies/src/com/anurag/navigatingtheskies/gui/TicketPage.java</file>
+            <file>file:/C:/project/NavigatingTheSkies/src/com/anurag/navigatingtheskies/gui/BookingPage.java</file>
+            <file>file:/C:/project/NavigatingTheSkies/src/com/anurag/navigatingtheskies/gui/ViewBookings.java</file>
+            <file>file:/C:/project/NavigatingTheSkies/src/com/anurag/navigatingtheskies/gui/AdminLoginPage.java</file>
         </group>
     </open-files>
 </project-private>

@@ -19,7 +19,7 @@ public class FlightDAO {
     private Connection connection;
     
     public FlightDAO(){
-        databaseConnector = new DatabaseConnector();
+//        databaseConnector = new DatabaseConnector();
     }
     
     public void addFlight(Flight flight) throws SQLException{

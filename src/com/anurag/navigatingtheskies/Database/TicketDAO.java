@@ -18,7 +18,7 @@ public class TicketDAO {
     private Connection connection;
     
     public TicketDAO(){
-        databaseConnector = new DatabaseConnector();
+//        databaseConnector = new DatabaseConnector();
     }
     
     public void createTicket(String userName,String flightId,int seats,int amount) throws SQLException{
